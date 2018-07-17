@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\SanSan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_5fced2e29f14aea511deb91ce1a218ea77676744.jar" />
+    </item>
+    <item
+        jar="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_6578465a38c5b36cb48b25e10abbfeaac80ccedd.jar" />
+    </item>
+    <item
+        jar="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\exploded-aar\me.aflak.libraries\bluetooth\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41e1b1b44d81b6efc6573afa7ec6cd669b78a80f">
+        <dex dex="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\pre-dexed\debug\me.aflak.libraries-bluetooth-1.2.4_97d84bfb6033b50e76156c142e1c457b00d05b27.jar" />
+    </item>
+    <item
+        jar="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_0ee563c3d72812474c43e7b64f717b1d4d66aa0d.jar" />
+    </item>
+    <item
+        jar="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_d0f8043f1700a85f1e686dfc6444117223870548.jar" />
+    </item>
+    <item
+        jar="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_4a587cace332deabe87772bfd943407d81ae6d82.jar" />
+    </item>
+    <item
+        jar="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\exploded-aar\me.aflak.libraries\pulltorefresh\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="403a89a8d65c7be6097d6d3b7cf736527fba005b">
+        <dex dex="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\pre-dexed\debug\me.aflak.libraries-pulltorefresh-1.0_11e01ac7312f30bc4cf0cf3ae77ee7b43edfa7cd.jar" />
+    </item>
+    <item
+        jar="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\ss\gittest\Bluetooth-Terminal\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_21f1ffd9832229ed40dd6044ebb8f81cbf5e4263.jar" />
+    </item>
+
+</items>
